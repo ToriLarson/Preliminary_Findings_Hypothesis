@@ -7,15 +7,15 @@ My goal for this project was to parse income data from the website: http://livin
 
 Once I had loaded all of the data into R and had cleaned it up. I wanted to move on to the Exploratory Data Analysis Portion of the Sprint. Below are my questions and answers.
 
-** Which field in which state has the highest paying job? **
+**Which field in which state has the highest paying job?**
 
 
 |State|Occupational_Area|Annual_Salary|
 |---|---|---|
 |District of Columbia|Legal|$153,535|
 
-** Use a bar plot to show and compare the Annual Salary for Legal jobs in every state? **
+**Use a bar plot to show and compare the Annual Salary for Legal jobs in every state?**
 
 ![LegalOccupations](Legal_Occupation.jpeg)
 
-*Note:* Since District of Columbia is really only the size of a county - the fact that it is the state with the highest Annual Salary isn't really accurate. For future questions we will probably take it out. 
+*Note:* Since District of Columbia is really only the size of a county - the fact that it is the state with the highest Annual Salary isn't really accurate. For future questions we will probably take it out.
